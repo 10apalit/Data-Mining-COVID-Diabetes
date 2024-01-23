@@ -1,4 +1,4 @@
-# Data-Mining-Project
+# Social Media Mining to Analyze Discussion of Long COVID and Diabetes
 The goal of this project is to analyze the
 discussions taking place in social media
 platforms, particularly Twitter, about Long
